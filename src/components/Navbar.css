@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #1c1c1c;
+  color: white;
+}
+
+.navbar-title a {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f39c12;
+  text-decoration: none;
+}
+
+.navbar-links a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.navbar-links a:hover {
+  color: #f39c12;
+}
+
+.navbar-search input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  width: 200px;
+}

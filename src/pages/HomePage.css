@@ -1,0 +1,32 @@
+.home-container {
+  text-align: center;
+  padding: 50px;
+  background-color: #1a1e22;
+  color: white;
+}
+
+.home-container h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.home-container p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.home-container a {
+  margin: 0 15px;
+  font-size: 18px;
+  color: #f39c12;
+  text-decoration: none;
+}
+
+.home-container a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+h1 {
+  color: aliceblue;
+}
